@@ -1,0 +1,298 @@
+2026-04-14 18:57:40 INFO  utils.Log - Test Started1
+2026-04-14 18:57:41 INFO  utils.Log - Test Started2
+2026-04-14 18:57:41 INFO  utils.Log - Test Started3
+2026-04-14 18:57:41 INFO  utils.Log - Test Started4
+2026-04-14 19:22:06 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-14 19:22:06 INFO  utils.Log - Login with username %s and password %s
+2026-04-14 19:22:08 INFO  utils.Log - Home Page text is %s
+2026-04-14 19:24:17 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-14 19:24:17 INFO  utils.Log - Login with username and password student, Password123
+2026-04-14 19:24:19 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-14 19:40:15 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-14 19:40:17 INFO  utils.Log - Test Success: validateLoginWithInvalid
+2026-04-14 19:40:20 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-14 19:40:20 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-14 19:40:20 INFO  utils.Log - Login with username and password student, Password123
+2026-04-14 19:40:21 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-14 19:40:21 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-14 19:41:26 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-14 19:41:28 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-14 19:41:31 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-14 19:41:31 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-14 19:41:31 INFO  utils.Log - Login with username and password student, Password123
+2026-04-14 19:41:33 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-14 19:41:33 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-15 19:04:01 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:04:03 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-15 19:04:07 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-15 19:04:07 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-15 19:04:07 INFO  utils.Log - Login with username and password student, Password123
+2026-04-15 19:04:09 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-15 19:04:09 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-15 19:05:43 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:05:45 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-15 19:05:49 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-15 19:05:49 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-15 19:05:49 INFO  utils.Log - Login with username and password student, Password123
+2026-04-15 19:05:51 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-15 19:05:51 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-15 19:06:54 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:06:56 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-15 19:07:00 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-15 19:07:00 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-15 19:07:00 INFO  utils.Log - Login with username and password student, Password123
+2026-04-15 19:07:02 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-15 19:07:02 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-15 19:10:44 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:10:51 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:10:57 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:10:59 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-15 19:11:04 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-15 19:11:04 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-15 19:11:04 INFO  utils.Log - Login with username and password student, Password123
+2026-04-15 19:11:05 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-15 19:11:05 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-15 19:13:45 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:13:51 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:13:58 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:14:01 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-15 19:14:01 INFO  utils.Log - Screenshot saved at: C:\Users\Usonawane\eclipse-workspace\UiFramework/screenshots/validateLoginWithInvalid_20260415_191401.png
+2026-04-15 19:14:05 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-15 19:14:05 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-15 19:14:05 INFO  utils.Log - Login with username and password student, Password123
+2026-04-15 19:14:07 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-15 19:14:07 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-15 19:37:09 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:37:15 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:37:21 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:37:24 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-15 19:37:28 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-15 19:37:28 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-15 19:37:28 INFO  utils.Log - Login with username and password student, Password123
+2026-04-15 19:37:30 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-15 19:37:30 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-15 19:39:01 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:39:06 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:39:14 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-15 19:39:17 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-15 19:39:17 INFO  utils.Log - Screenshot saved at: C:\Users\Usonawane\eclipse-workspace\UiFramework/screenshots/validateLoginWithInvalid_20260415_193917.png
+2026-04-15 19:39:21 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-15 19:39:21 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-15 19:39:21 INFO  utils.Log - Login with username and password student, Password123
+2026-04-15 19:39:22 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-15 19:39:22 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-17 18:24:54 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:25:00 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:25:05 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:25:07 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-17 18:25:07 INFO  utils.Log - Screenshot saved at: C:\Users\Usonawane\eclipse-workspace\UiFramework/screenshots/validateLoginWithInvalid_20260417_182507.png
+2026-04-17 18:25:10 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-17 18:25:10 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 18:25:10 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 18:25:12 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 18:25:12 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-17 18:32:41 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:32:47 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:32:52 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:32:54 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-17 18:32:55 INFO  utils.Log - Screenshot saved at: C:\Users\Usonawane\eclipse-workspace\UiFramework/screenshots/validateLoginWithInvalid_20260417_183254.png
+2026-04-17 18:32:58 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-17 18:32:58 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 18:32:58 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 18:32:59 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 18:32:59 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-17 18:35:21 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:35:27 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:35:32 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:35:34 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-17 18:35:34 INFO  utils.Log - Screenshot saved at: C:\Users\Usonawane\eclipse-workspace\UiFramework/screenshots/validateLoginWithInvalid_20260417_183534.png
+2026-04-17 18:35:38 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-17 18:35:38 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 18:35:38 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 18:35:39 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 18:35:39 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-17 18:41:17 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:41:22 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:41:28 INFO  utils.Log - Test Name:validateLoginWithInvalid
+2026-04-17 18:41:30 INFO  utils.Log - Test Failure: validateLoginWithInvalid
+2026-04-17 18:41:30 INFO  utils.Log - Screenshot saved at: C:\Users\Usonawane\eclipse-workspace\UiFramework/screenshots/validateLoginWithInvalid_20260417_184130.png
+2026-04-17 18:41:33 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-17 18:41:33 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 18:41:33 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 18:41:34 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 18:41:34 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-17 18:42:40 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 18:42:40 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 18:42:41 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 18:43:21 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 18:43:21 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 18:43:22 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 18:47:30 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 18:47:30 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 18:47:31 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 18:51:08 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 18:51:08 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 18:51:09 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 18:55:03 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 18:55:03 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 18:55:04 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 19:00:20 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 19:00:20 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 19:00:21 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 19:02:10 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 19:02:10 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 19:02:11 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 19:02:57 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 19:02:57 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 19:02:58 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 19:04:20 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 19:04:20 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 19:04:23 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 19:05:42 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 19:05:42 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 19:05:45 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 19:13:12 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 19:13:12 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 19:13:14 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 19:16:09 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 19:16:09 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 19:16:10 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 23:55:06 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 23:55:06 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 23:55:08 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 23:55:12 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 23:55:12 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 23:55:13 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 23:55:16 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 23:55:16 INFO  utils.Log - Login with username and password student, Password456
+2026-04-17 23:56:03 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 23:56:03 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 23:56:05 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-17 23:56:09 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-17 23:56:09 INFO  utils.Log - Login with username and password student, Password123
+2026-04-17 23:56:10 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 18:59:31 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 18:59:31 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 18:59:32 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 18:59:36 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 18:59:36 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 18:59:37 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 19:31:54 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 19:31:54 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 19:31:56 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 19:32:00 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 19:32:00 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 19:32:01 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 19:32:06 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 19:32:06 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 19:32:07 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 19:32:42 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 19:32:42 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 19:32:43 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 19:32:47 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 19:32:47 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 19:32:48 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 19:32:52 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 19:32:52 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 19:32:53 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 19:32:57 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 19:32:57 INFO  utils.Log - Login with username and password student, Password12dsds3
+2026-04-23 19:33:02 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 19:33:02 INFO  utils.Log - Login with username and password student, Passwordsdd123
+2026-04-23 22:33:08 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 22:33:08 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 22:33:09 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 22:33:11 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 22:33:11 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 22:33:30 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 22:33:30 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 22:33:31 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 22:33:34 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 22:33:34 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 22:33:35 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 22:33:39 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 22:33:39 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 22:33:40 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 22:33:42 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 22:33:42 INFO  utils.Log - Login with username and password student, Password12dsds3
+2026-04-23 22:33:46 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 22:33:46 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 22:33:47 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 22:33:50 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 22:33:50 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 22:33:51 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 22:33:54 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 22:33:54 INFO  utils.Log - Login with username and password student, Password123
+2026-04-23 22:33:56 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-23 22:33:59 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-23 22:33:59 INFO  utils.Log - Login with username and password student, Password12dsds3
+2026-04-24 18:11:26 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:11:26 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 18:11:27 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 18:11:30 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:11:30 INFO  utils.Log - Login with username and password student1, Password123
+2026-04-24 18:11:33 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:11:33 INFO  utils.Log - Login with username and password , 
+2026-04-24 18:11:37 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:11:37 INFO  utils.Log - Login with username and password , 
+2026-04-24 18:11:40 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:11:40 INFO  utils.Log - Login with username and password , 
+2026-04-24 18:11:43 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:11:43 INFO  utils.Log - Login with username and password , 
+2026-04-24 18:11:46 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:11:46 INFO  utils.Log - Login with username and password , 
+2026-04-24 18:11:49 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:11:49 INFO  utils.Log - Login with username and password , 
+2026-04-24 18:17:22 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:17:22 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 18:17:24 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 18:17:27 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:17:27 INFO  utils.Log - Login with username and password student1, Password123
+2026-04-24 18:17:31 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:17:31 INFO  utils.Log - Login with username and password student1, Password123
+2026-04-24 18:17:34 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:17:34 INFO  utils.Log - Login with username and password student1, Password123
+2026-04-24 18:18:32 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:18:32 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 18:18:33 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 18:23:52 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:23:52 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 18:23:53 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 18:28:25 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:28:25 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 18:28:26 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 18:31:06 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:31:06 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 18:31:08 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 18:33:22 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 18:33:22 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 18:33:23 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 19:33:19 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-24 19:33:19 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 19:33:19 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 19:33:20 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 19:33:20 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-24 19:33:20 INFO  utils.Log - Test Failure: validateLoginWithPositiveScenario
+2026-04-24 19:33:58 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-24 19:33:58 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 19:33:58 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 19:33:59 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 19:33:59 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-24 19:33:59 INFO  utils.Log - Test Failure: validateLoginWithPositiveScenario
+2026-04-24 19:38:46 INFO  utils.Log - Test Name:validateLoginWithPositiveScenario
+2026-04-24 19:38:46 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 19:38:46 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 19:38:47 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 19:38:47 INFO  utils.Log - Test Success: validateLoginWithPositiveScenario
+2026-04-24 19:38:47 INFO  utils.Log - Test Failure: validateLoginWithPositiveScenario
+2026-04-24 19:41:09 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 19:41:09 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 19:41:10 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 19:42:18 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 19:42:18 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 19:42:19 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-04-24 19:42:46 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-04-24 19:42:46 INFO  utils.Log - Login with username and password student, Password123
+2026-04-24 19:42:47 INFO  utils.Log - Home Page text isLogged In Successfully
+2026-05-07 18:55:35 INFO  utils.Log - Test scenario with validateLoginWithPositiveScenario
+2026-05-07 18:55:35 INFO  utils.Log - Login with username and password student, Password123
