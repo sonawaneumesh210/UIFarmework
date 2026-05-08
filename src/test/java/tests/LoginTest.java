@@ -32,6 +32,6 @@ public class LoginTest  extends BaseTest{
 	public void validateLoginWithInvalid() throws InterruptedException {
 		loginPage.login("student", "Password1234");
 		Thread.sleep(2000);
-		Assert.assertEquals(loginPage.getInvalidLoginMsg(),"xyz");
+		Assert.assertEquals(loginPage.getInvalidLoginMsg(),"Your password is invalid!");
 	}
 }
