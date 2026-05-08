@@ -10,15 +10,12 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                echo 'Cloning repository...'
-                git branch: 'main',
-                url: 'https://github.com/sonawaneumesh210/UIFarmework.git'
+                checkout scm
             }
         }
 
         stage('Build & Test') {
             steps {
-                echo 'Running Maven command...'
                 sh 'mvn clean test'
             }
         }
@@ -27,15 +24,11 @@ pipeline {
     post {
 
         success {
-            echo 'Pipeline executed successfully!'
+            echo 'PR Validation Successful'
         }
 
         failure {
-            echo 'Pipeline failed!'
-        }
-
-        always {
-            echo 'Pipeline execution completed.'
+            echo 'PR Validation Failed'
         }
     }
 }
