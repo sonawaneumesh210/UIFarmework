@@ -1,11 +1,6 @@
 pipeline {
     agent any
 
-    tools {
-        maven 'Maven3'
-        jdk 'Java17'
-    }
-
     stages {
 
         stage('Checkout') {
@@ -16,7 +11,7 @@ pipeline {
 
         stage('Build & Test') {
             steps {
-                sh 'mvn clean test'
+                bat 'mvn clean test'
             }
         }
     }
@@ -24,11 +19,11 @@ pipeline {
     post {
 
         success {
-            echo 'PR Validation Successful'
+            echo 'Build Successful'
         }
 
         failure {
-            echo 'PR Validation Failed'
+            echo 'Build Failed'
         }
     }
 }
