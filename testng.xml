@@ -15,5 +15,6 @@
       <class name="tests.LoginTest"/>
     </classes>
   </test> <!-- Test -->
-  
+
+ 
 </suite> <!-- Suite -->
